@@ -21,33 +21,6 @@ You should create one R script called run_analysis.R that does the following.
     Appropriately labels the data set with descriptive variable names.
     Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
-Good luck!
-Evaluation Checklist
-Tidy Data Set
-
-From Question: Please upload a tidy data set according to the instructions in the project description. Please upload your data set as a separate file (do not cut and paste a dataset directly into the text box, as this may cause errors saving your submission).
-
-From Evaluation: Has the student submitted a tidy data set?
-Second Data Set
-
-From Question: Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
-Github Repo with Required Scripts
-
-From Question: Please submit a link to a Github repo with the code for performing your analysis. The code should have a file run_analysis.R in the main directory that can be run as long as the Samsung data is in your working directory. The output should be the tidy data set you submitted for part 1.
-
-From Evaluation: Did the student submit a Github repo with the required scripts?
-Code Book
-
-From Overview: A code book that describes the variables, the data, and any transformations or work that you performed to clean up the data called CodeBook.md.
-
-From Evaluation: Please submit a code book that modifies and updates the codebooks available to you with the data to indicate all the variables and summaries you calculated, along with units, and any other relevant information.
-README
-
-From Overview: You should also include a README.md in the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
-
-From Question: You should include a README.md in the repo describing how the script works.
-
-From Evaluation: I was able to follow the README in the directory that explained what the analysis files did.
 Data Analysis Explanation
 For 1st tiny data set:
 
